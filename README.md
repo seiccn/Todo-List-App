@@ -1,4 +1,5 @@
 # Todo List App
+simple and dynamic todo list web application that allows users to manage their tasks seamlessly
 
 ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-32a39a574a.gif)
 ## Features
